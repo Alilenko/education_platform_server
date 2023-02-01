@@ -143,6 +143,118 @@
         "date": 1673701200,
         "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
         "type": "live"
+    },
+    {
+        "id": 21,
+        "title": "Лекція 1",
+        "description": "Опис лекції",
+        "date": 1675269000,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 22,
+        "title": "Лекція 2",
+        "description": "Опис лекції",
+        "date": 1675441800,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 23,
+        "title": "Лекція 3",
+        "description": "Опис лекції",
+        "date": 1675701000,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 24,
+        "title": "Лекція 4",
+        "description": "Опис лекції",
+        "date": 		1675873800,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 25,
+        "title": "Лекція 5",
+        "description": "Опис лекції",
+        "date": 	1676046600,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 26,
+        "title": "Лекція 6",
+        "description": "Опис лекції",
+        "date": 		1676305800,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 27,
+        "title": "Лекція 7",
+        "description": "Опис лекції",
+        "date": 		1676305800,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 28,
+        "title": "Лекція 8",
+        "description": "Опис лекції",
+        "date": 	1676651400,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 29,
+        "title": "Прямий ефір",
+        "description": "Опис",
+        "date": 		1676737800,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "live"
+    },
+    {
+        "id": 30,
+        "title": "Прямий ефір",
+        "description": "Опис",
+        "date": 			1676727000,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "live"
+    },
+    {
+        "id": 31,
+        "title": "Лекція 11",
+        "description": "Опис лекції",
+        "date": 	1677083400 ,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 32,
+        "title": "Лекція 12",
+        "description": "Опис лекції",
+        "date": 	1677256200,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },
+    {
+        "id": 33,
+        "title": "Лекція 13 ",
+        "description": "Опис лекції",
+        "date": 		1677515400,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    },   
+    {
+        "id": 34,
+        "title": "Прямий ефір",
+        "description": "Опис лекції",
+        "date": 		1677342600,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "live"
     }
     
 ]
