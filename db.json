@@ -244,7 +244,7 @@
         "id": 33,
         "title": "Лекція 13 ",
         "description": "Опис лекції",
-        "date": 		1677515400,
+        "date": 			1685008800,
         "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
         "type": "lecture"
     },   
@@ -252,7 +252,31 @@
         "id": 34,
         "title": "Прямий ефір",
         "description": "Опис лекції",
-        "date": 		1677342600,
+        "date": 		1684576800,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "live"
+    },
+    {
+        "id": 35,
+        "title": "Прямий ефір",
+        "description": "Опис лекції",
+        "date": 1684144800		,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "live"
+    },   
+     {
+        "id": 36,
+        "title": "Лекція 13 ",
+        "description": "Опис лекції",
+        "date": 1685613600,
+        "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
+        "type": "lecture"
+    } ,
+    {
+        "id": 37,
+        "title": "Прямий ефір",
+        "description": "Опис лекції",
+        "date": 	1685966400		,
         "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
         "type": "live"
     }
