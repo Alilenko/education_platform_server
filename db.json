@@ -4,7 +4,7 @@
         "id": 1,
         "title": "Лекція 1",
         "description": "Опис лекції",
-        "date": 1670927400,
+        "date": 1697445000,
         "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
         "type": "lecture"
     },
@@ -12,7 +12,7 @@
         "id": 2,
         "title": "Лекція 2",
         "description": "Опис лекції",
-        "date": 1671100200,
+        "date": 1697704200,
         "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
         "type": "lecture"
     },
@@ -20,7 +20,7 @@
         "id": 3,
         "title": "Лекція 3",
         "description": "Опис лекції",
-        "date": 1671445800,
+        "date": 1700386200,
         "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
         "type": "lecture"
     },
@@ -68,7 +68,7 @@
         "id": 9,
         "title": "Прямий ефір",
         "description": "Опис",
-        "date": 	1671273000,
+        "date": 	1700731800,
         "link": "https://www.youtube.com/watch?v=Yr_poW-KK1Q",
         "type": "live"
     },
